@@ -16,6 +16,52 @@
 
 ---
 
+<!-- ======= BADGES ======= -->
+<p align="left">
+  <a href="https://github.com/jayachandran-student">
+    <img src="https://img.shields.io/badge/GitHub-jayachandran--student-181717?style=for-the-badge&logo=github" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayachandran-k">
+    <img src="https://img.shields.io/badge/LinkedIn-Jayachandran-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://motorcyclebook.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="portfolio" />
+  </a>
+</p>
+
+<p align="left">
+  <!-- Tech stack badges -->
+  <img src="https://img.shields.io/badge/React-17.0.2-61DAFB?style=flat-square&logo=react&logoColor=white" alt="react" />
+  <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=node.js&logoColor=white" alt="node" />
+  <img src="https://img.shields.io/badge/Express.js-4.x-000000?style=flat-square&logo=express&logoColor=white" alt="express" />
+  <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/AWS-Lambda-orange?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws" />
+  <img src="https://img.shields.io/badge/Docker-enabled-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker" />
+</p>
+
+<p align="left">
+  <!-- social/metrics -->
+  <img src="https://img.shields.io/github/followers/jayachandran-student?label=Follow&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=jayachandran-student&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+<!-- ======= STREAK & ACTIVITY ======= -->
+<p align="left">
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayachandran-student&theme=react" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <!-- Activity graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=jayachandran-student&theme=react-dark&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+
+
 ## 🛠️ Tech Stack
 
 **Frontend:**  
