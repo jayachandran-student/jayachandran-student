@@ -52,9 +52,9 @@ AWS (Lambda, S3, SNS) · Postman · Git & GitHub · Netlify · Render · VS Code
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayachandran-k)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/jayachandran-k-6312ab376)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/jayachandran-student)  
-[![Netlify](https://img.shields.io/badge/Portfolio-green?logo=netlify&logoColor=white)](https://motorcyclebook.netlify.app)  
+[![Netlify](https://img.shields.io/badge/Portfolio-green?logo=netlify&logoColor=white)](https://motorcyclebook.netlify.app/login)  
 📧 **Email:** jayachandran.k30@gmail.com
 
 ---
