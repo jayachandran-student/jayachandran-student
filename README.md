@@ -21,10 +21,10 @@
   <a href="https://github.com/jayachandran-student">
     <img src="https://img.shields.io/badge/GitHub-jayachandran--student-181717?style=for-the-badge&logo=github" alt="github" />
   </a>
-  <a href="https://www.linkedin.com/in/jayachandran-k">
+  <a href="https://www.linkedin.com/in/jayachandran-k-6312ab376">
     <img src="https://img.shields.io/badge/LinkedIn-Jayachandran-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://motorcyclebook.netlify.app">
+  <a href="https://motorcyclebook.netlify.app/login">
     <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="portfolio" />
   </a>
 </p>
