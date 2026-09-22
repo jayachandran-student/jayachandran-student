@@ -25,9 +25,8 @@
 
 🔗 Live: https://motorcyclebook.netlify.app/vehicles  
 🔗 GitHub: 
-    Frontend : https://github.com/jayachandran-student/bike-service-frontend
-    
-    Backend : https://github.com/jayachandran-student/motorcycle-service-booking-backend
+    🔗 Frontend : https://github.com/jayachandran-student/bike-service-frontend
+    🔗 Backend : https://github.com/jayachandran-student/motorcycle-service-booking-backend
 
 ---
 
